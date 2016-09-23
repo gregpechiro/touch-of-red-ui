@@ -1,6 +1,7 @@
 # Touch of Red ui theme
 
 This is a dark ui theme that adds red accents. It is based off of Atom's Atom Dark.
+
 It is designed to go with the Touch of Red syntax theme. See bellow.
 
 ## Screenshots
