@@ -1,5 +1,12 @@
-# touch-of-red-ui theme
+# Touch of Red ui theme
 
-A short description of your theme.
+This is a dark ui theme that adds red accents. It is based off of Atom's Atom Dark.
+It is designed to go with the Touch of Red syntax theme. See bellow.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+## Screenshots
+
+![touch of red screenshot1](https://raw.githubusercontent.com/gregpechiro/touch-of-red-ui/master/assets/screenshot1.png)
+
+![touch of red screenshot2](https://raw.githubusercontent.com/gregpechiro/touch-of-red-ui/master/assets/screenshot2.png)
+
+![touch of red screenshot3](https://raw.githubusercontent.com/gregpechiro/touch-of-red-ui/master/assets/screenshot3.png)
